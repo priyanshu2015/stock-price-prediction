@@ -151,7 +151,7 @@ def send_request(prompt):
                     "Accept-Language": "en-GB,en;q=0.9,en-US;q=0.8,hi;q=0.7",
                     "Connection": "keep-alive",
                     "Content-type": "application/json",
-                    "Cookie": "mod_auth_openidc_session=89a7c134-7a8d-42cb-a87b-ca4760d0f769",
+                    "Cookie": "*****",
                     "Host": "chat-ai.academiccloud.de",
                     "Origin": "https://chat-ai.academiccloud.de",
                     "Referer": "https://chat-ai.academiccloud.de/chat",
