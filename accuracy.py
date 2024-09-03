@@ -29,8 +29,3 @@ num_matches, match_percentage = calculate_match_percentage(file_path)
 print(f"Number of matches: {num_matches}")
 print(f"Percentage of matches: {match_percentage:.2f}%")
 
-
-# Strategy 1
-# Mixtral
-# Number of matches: 373
-# Percentage of matches: 40.63%
